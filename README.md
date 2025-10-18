@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, eu sou o Samuel
 
-<!--
-**samuel2008danilo1985-maker/samuel2008danilo1985-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional dedicado e apaixonado por análise de dados e Data Science. Tenho experiência prática com Excel avançado e gestão de bancos de dados, aplicando essas habilidades para extrair insights valiosos e apoiar a tomada de decisões estratégicas.
 
-Here are some ideas to get you started:
+Atualmente, estou focado em expandir meus conhecimentos em Data Science, combinando técnicas de manipulação de dados, modelagem e visualização para transformar dados brutos em soluções eficazes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas principais habilidades incluem:
+- Excel avançado: fórmulas complexas, tabelas dinâmicas, macros e automação de processos.
+- Banco de dados: modelagem, consultas SQL, manipulação e organização de grandes volumes de dados.
+- Análise de dados: interpretação e apresentação de resultados para apoiar decisões.
+
+Estou aberto a colaborar em projetos desafiadores que envolvam análise e ciência de dados, além de sempre buscar aprender novas tecnologias e ferramentas.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
